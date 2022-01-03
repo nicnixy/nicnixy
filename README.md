@@ -2,7 +2,7 @@
 ### Olá, me chamo Nicole! 
 
 - 🌱 Estou aprendendo a programar
-- 💻 Começando com frontend
+- 💻 Começando com front-end, mas pretendo ser fullstack
 - 😄 Pronomes: ela/dela 
 
 <div align="center"> 
