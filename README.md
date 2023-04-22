@@ -1,9 +1,6 @@
 
-### Olá, me chamo Nicole! 
+### Olá, me chamo Nicole e sou uma padwan na programação.
 
-- 🌱 Estou aprendendo a programar
-- 💻 Começando com front-end, mas pretendo ser fullstack
-- 😄 Pronomes: ela/dela 
 
 <div align="center"> 
 <a href="https://github.com/nicnixy">
@@ -16,5 +13,5 @@
 <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="right" alt="Nick-pic" height="150" style="border-radius:50px;" src="https://tlgur.com/d/4kx1aOx8">
+<img align="right" alt="Nick-pic" height="150" style="border-radius:50px;" src="https://files.fm/u/dna9dn7bh">
 </div>
