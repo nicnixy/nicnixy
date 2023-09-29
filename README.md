@@ -1,6 +1,5 @@
 
-### Olá, me chamo Nicole e sou uma padwan na programação.
-
+### Hii! I'm Nick and I-m a System Dev Student
 
 <div align="center"> 
 <a href="https://github.com/nicnixy">
