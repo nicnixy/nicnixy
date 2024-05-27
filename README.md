@@ -1,5 +1,5 @@
 # Hello World! I'm Nick, student of technology
-Student of Systems Analysis and Development with a passion for translating lines of code into practical solutions. I've concentrated on front-end development throughout my academic journey, yet I'm always exploring cutting-edge technologies and embracing challenges in various projects. I'm actively pursuing opportunities to broaden my knowledge and contribute to compelling projects.
+Student of Systems Analysis and Development with a passion for translating lines of code into practical solutions. I've concentrated on back-end development throughout my academic journey, yet I'm always exploring cutting-edge technologies and embracing challenges in various projects. I'm actively pursuing opportunities to broaden my knowledge and contribute to compelling projects.
 
 
 # Techs
