@@ -9,7 +9,6 @@ Student of Systems Analysis and Development with a passion for translating lines
 <img align="center" alt="Nick-Js" height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
 <img align="center" alt="Nick-Ts" height="50" width="50" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000">
 <img align="center" alt="Nick-Node" height="50" width="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000">
-<img align="center" alt="Nick-Php" height="50" width="50" src="https://img.icons8.com/?size=100&id=ew8X3wM9rXiK&format=png&color=000000">
 </div>
 
 <br>
